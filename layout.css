@@ -1,0 +1,46 @@
+body{
+    background-image: url(./squid-game-logo-font-download.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1{
+    color: aliceblue;
+    display: flex;
+    text-decoration: overline;
+}
+/* nav > ul {
+    display: flex;
+  } */
+  ul > li {
+    
+    padding: 10px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    /* line-height: 19px; */
+    color: #f70000;
+    list-style: none;
+    margin-left: 1000px;
+  }
+  main{
+      text-align: center;
+  }
+  button{
+      padding: 10px;
+      margin: 30px;
+      background-color: chocolate;
+      border: 2px solid red;
+      color: aliceblue;
+
+  }
+ button:hover{
+    width: 150px;
+    border: 1px solid #BFBFBF;
+    box-shadow: 5px 10px #888888;
+ }

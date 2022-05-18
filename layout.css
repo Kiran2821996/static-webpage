@@ -12,9 +12,7 @@ h1{
     display: flex;
     text-decoration: overline;
 }
-/* nav > ul {
-    display: flex;
-  } */
+
   ul > li {
     
     padding: 10px;
@@ -42,5 +40,9 @@ h1{
  button:hover{
     width: 150px;
     border: 1px solid #BFBFBF;
-    box-shadow: 5px 10px #888888;
+    box-shadow: 10px 10px 6px #9e2626;
+ }
+ a{
+    color: #f70000;
+    text-decoration: dotted;
  }
